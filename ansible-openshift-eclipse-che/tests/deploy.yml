@@ -1,0 +1,2 @@
+roles:
+  - ../../ansible-openshift-eclipse-che
