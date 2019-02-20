@@ -1,3 +1,2 @@
-- Name: Deploy Eclipse Che
-  roles:
-    - ../../ansible-openshift-eclipse-che
+roles:
+  - ../../ansible-openshift-eclipse-che
